@@ -25,6 +25,10 @@
 
   - osTicket: Ticket Lifecycle Examples
   - ![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/740ef8f2-cd92-49f4-9d5c-99318ed5b5bf)
+  - ![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/69ed9007-6326-4909-a154-d6a807d504ca)
+  - ![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/47672e16-3dac-4188-b250-16e65bd74053)
+
+
 
 - <b>Microsoft Azure</b>
   - Configuring On-Premises Active Directory within Azure Vms
