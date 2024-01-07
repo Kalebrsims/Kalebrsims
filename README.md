@@ -1,8 +1,13 @@
 <h1>Hi, I'm Kaleb, an <a href="www.linkedin.com/in/kaleb-sims-184392109/">IT Professional</a>
  
 <h2>👨‍💻 Information Technology Projects:</h2>
+<h3>Environements and Technologies Used</h3> 
+<p1>Microsoft Azure (Virtual Machines/Compute)
+, Remote Desktop, Internet Information Services (IIS) </p1>
+
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+
   - osTicket: Prerequisites and instillation
   - ![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/a18be0c9-b266-43c2-87a0-27ebcaed94e8)
   - ![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/f9d705c6-3b5a-4625-88be-900beef137eb)
