@@ -34,7 +34,7 @@
   - ![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/47672e16-3dac-4188-b250-16e65bd74053)
 
 
-- <p>VPN Setup and Usage (Proton VPN)</p>
+- <h2>VPN Setup and Usage (Proton VPN)</h2>
 -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/ad82c640-24a2-45d7-8a5a-d161cb5c46f2)
 -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/494e6b78-f1bf-4381-8135-ac643cf426ae)
 -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/fa923ed0-25fe-4410-8a11-6c9ba6b320f3)
