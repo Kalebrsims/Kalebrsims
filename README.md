@@ -48,8 +48,13 @@
 
 
 
-- <b>Microsoft Azure</b>
-  - Configuring On-Premises Active Directory within Azure Vms
+ <b>Microsoft Azure</b>
+  - <h1>Deploying Active Directory and Creating Users</h1> 
+  -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/e3116268-d16f-414c-939d-b522baa603af)
+  -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/c75b9671-f1df-4267-8da1-351183817492)
+
+  
+
   - Network Security Groups (NSGs) and Inspecting Network Protocols
 
 <h2> 🤳 Connect with me:</h2>
