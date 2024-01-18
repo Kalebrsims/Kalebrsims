@@ -56,6 +56,10 @@
   -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/540c27dd-88a9-493d-8841-aa998fceac4a)
 -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/d427b878-61ba-4779-9a98-574bc50594ee)
 -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/17be1cbb-ce95-46f2-84e6-e8260c00865a)
+-![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/462c418a-0714-4734-99f4-18546f1b911a)
+-![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/45e915a7-f873-47e5-8bf9-0bb5e5d5813a)
+-![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/29ed65b3-63f2-4e75-a4b0-da25ebb4db6f)
+
 
 
 
