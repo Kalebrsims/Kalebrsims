@@ -52,6 +52,12 @@
   - <h1>Deploying Active Directory and Creating Users</h1> 
   -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/e3116268-d16f-414c-939d-b522baa603af)
   -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/c75b9671-f1df-4267-8da1-351183817492)
+  -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/80c37d14-1e28-45e4-abeb-07dfc30010d1)
+  -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/540c27dd-88a9-493d-8841-aa998fceac4a)
+-![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/d427b878-61ba-4779-9a98-574bc50594ee)
+-![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/17be1cbb-ce95-46f2-84e6-e8260c00865a)
+
+
 
   
 
