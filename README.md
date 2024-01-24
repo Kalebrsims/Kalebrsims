@@ -8,7 +8,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
 
-  - osTicket: Prerequisites and instillation
+  - osTicket: Prerequisites and instillation (https://github.com/Kalebrsims/osticket-prereqs)
   - ![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/a18be0c9-b266-43c2-87a0-27ebcaed94e8)
   - ![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/f9d705c6-3b5a-4625-88be-900beef137eb)
   - ![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/4e40e000-a53b-4b0e-89e2-afe3b2ab55f9)
