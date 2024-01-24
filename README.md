@@ -11,8 +11,8 @@
   - [Configuring Active Directory Within Azure VMs](https://github.com/Kalebrsims/microsoft-azure) <b><i></b></i>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kalebrsims/microsoft-azure)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Kalebrsims/power-shell)
+  - [Active Directory Bulk User Creation](https://github.com/kalebrsims/power-shell)
  
 
 
