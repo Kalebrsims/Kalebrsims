@@ -13,20 +13,6 @@
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Kalebrsims/power-shell)
   - [Active Directory Bulk User Creation](https://github.com/kalebrsims/power-shell)
- 
-
-
-
-
-- <h2>VPN Setup and Usage (Proton VPN)</h2>
--![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/ad82c640-24a2-45d7-8a5a-d161cb5c46f2)
--![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/494e6b78-f1bf-4381-8135-ac643cf426ae)
--![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/fa923ed0-25fe-4410-8a11-6c9ba6b320f3)
--![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/b82d615e-3a7a-4e60-8f21-87596698669b)
--![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/2f218c4d-217f-4580-9d79-c8c74f31d7a7)
--![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/b5e33827-a914-43af-914a-0bfafd587ff9)
-
-
 
 <h2> 🤳 Connect with me:</h2>
 
