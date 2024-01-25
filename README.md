@@ -9,7 +9,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Kalebrsims/osticket-prereqs)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory Within Azure VMs](https://github.com/Kalebrsims/microsoft-azure) <b><i></b></i>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kalebrsims/microsoft-azure)
+  - [VPN Setup and Usage (Proton VPN)](https://github.com/Kalebrsims/microsoft-azure)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Kalebrsims/power-shell)
   - [Active Directory Bulk User Creation](https://github.com/kalebrsims/power-shell)
