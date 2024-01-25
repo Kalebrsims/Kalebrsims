@@ -28,29 +28,6 @@
 
 
 
-
-
-
-
- <b>Microsoft Azure</b>
-  - <h1>Deploying Active Directory and Creating Users</h1> 
-  -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/e3116268-d16f-414c-939d-b522baa603af)
-  -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/c75b9671-f1df-4267-8da1-351183817492)
-  -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/80c37d14-1e28-45e4-abeb-07dfc30010d1)
-  -![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/540c27dd-88a9-493d-8841-aa998fceac4a)
--![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/d427b878-61ba-4779-9a98-574bc50594ee)
--![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/17be1cbb-ce95-46f2-84e6-e8260c00865a)
--![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/462c418a-0714-4734-99f4-18546f1b911a)
--![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/45e915a7-f873-47e5-8bf9-0bb5e5d5813a)
--![image](https://github.com/Kalebrsims/Kalebrsims/assets/155590792/ef264209-a77a-49a7-a1a1-5569a64f6a86)
-
-
-
-
-  
-
-  - Network Security Groups (NSGs) and Inspecting Network Protocols
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
