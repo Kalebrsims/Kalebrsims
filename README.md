@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kaleb, an <a href="www.linkedin.com/in/kaleb-sims-184392109/">IT Professional</a>
+<h1>Hi, I'm Kaleb, an <a href="www.linkedin.com/kalebrsims">IT Professional</a>
  
 <h2>👨‍💻 Information Technology Projects:</h2>
 
